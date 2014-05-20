@@ -1,4 +1,4 @@
-package main.java.org.ops4j.paxexam.wildfly.wildfly8.quickstart;
+package org.ops4j.paxexam.wildfly.wildfly8.quickstart;
 
 
 public interface HelloWorld {
