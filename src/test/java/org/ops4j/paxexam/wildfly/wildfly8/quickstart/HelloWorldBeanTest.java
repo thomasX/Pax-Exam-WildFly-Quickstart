@@ -16,7 +16,8 @@ public class HelloWorldBeanTest {
 	
 	@Test
 	public void testGetGreeting(){
-		assertEquals("Hallo Mario schön dich wiederzusehen!", bean.getGreeting("Mario"));
+		assertEquals("Hallo Mario schön dich wiederzusehen! ", bean.getGreeting("Mario"));
+//		assertEquals("Hallo Mario schön dich wiederzusehen!","Hallo Mario schön dich wiederzusehen!");
 	}
 	
 }
