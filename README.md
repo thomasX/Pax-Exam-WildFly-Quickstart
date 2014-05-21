@@ -14,9 +14,8 @@ If you start Junit-Tests directly from the eclipse-IDE, you will get an OutOfMem
 There are 2 workarounds for this Problem: 
     	
 Workaround 1:  
-
-install the junitLauncher-plugin
-this plugin allows you, to define default (Xmx and XX:MaxPermSize) arguments for all JunitTests
+Install the junitLauncher-plugin.
+This plugin allows you, to define default (Xmx and XX:MaxPermSize) arguments for all JunitTests
 			 
 			 http://junitlaunchfixer.googlecode.com/svn/trunk/JUnitLaunchFixer-update-site/.
 
