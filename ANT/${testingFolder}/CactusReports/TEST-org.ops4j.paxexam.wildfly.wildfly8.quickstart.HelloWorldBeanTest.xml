@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="CLD0091" name="org.ops4j.paxexam.wildfly.wildfly8.quickstart.HelloWorldBeanTest" tests="0" time="0.097" timestamp="2014-06-12T13:41:44">
+  <properties>
+    <property name="ant.project.invoked-targets" value="RunTests" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\bin" />
+    <property name="java.vm.version" value="24.45-b08" />
+    <property name="ant.library.dir" value="C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib" />
+    <property name="user.country.format" value="AT" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.script" value="" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="C:\Users\f3thomas\git\Pax-Exam-WildFly-Quickstart\ANT" />
+    <property name="java.runtime.version" value="1.7.0_45-b18" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/scripts/" />
+    <property name="basedir" value="C:\Users\f3thomas\git\Pax-Exam-WildFly-Quickstart\ANT" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="ant.project.default-target" value="DoSingleTest" />
+    <property name="java.io.tmpdir" value="C:\Users\f3thomas\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows 7" />
+    <property name="ant.home" value="C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/" />
+    <property name="ant.project.name" value="run All Tests Generator" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\program files (x86)\amd app\bin\x86_64;c:\program files (x86)\amd app\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\system32\wbem;C:\Windows\system32\windowspowershell\v1.0\;c:\program files\intel\dmix;c:\program files (x86)\ati technologies\ati.ace\core-static;c:\program files (x86)\common files\edrawings2010;c:\program files\ibm\gsk8\lib64;C:\Program Files\Internet Explorer;C:\Program Files (x86)\Calibre2\;C:\PROGRA~1\IBM\SQLLIB\BIN;C:\PROGRA~1\IBM\SQLLIB\FUNCTION;C:\PROGRA~1\IBM\SQLLIB\SAMPLES\REPL;C:\Ephesoft\JavaAppServer\bin;C:\Program Files\MySQL\MySQL Server 5.5\bin;C:\Program Files\jEdit;C:\Program Files\nodejs\;C:\Users\f3thomas\AppData\Roaming\npm;.;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\666\1\.cp" />
+    <property name="eclipse.pdebuild.home" value="/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/./" />
+    <property name="java.class.version" value="51.0" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file" value="C:\Users\f3thomas\git\Pax-Exam-WildFly-Quickstart\ANT\examTests.xml" />
+    <property name="ant.file.type.run All Tests Generator" value="file" />
+    <property name="user.home" value="C:\Users\f3thomas" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.class.path" value="C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-antlr.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-bcel.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-bsf.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-log4j.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-oro.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-regexp.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-resolver.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-apache-xalan2.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-commons-logging.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-commons-net.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-jai.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-javamail.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-jdepend.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-jmf.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-jsch.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit4.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-launcher.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-netrexx.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-swing.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-testutil.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\64\1\.cp\lib\antdebug.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\64\1\.cp\lib\remote.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\configuration\org.eclipse.osgi\bundles\65\1\.cp\lib\remoteAnt.jar;C:\Program Files\Java\jdk1.7.0_45\lib\tools.jar;C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.102.1.v20140206-1358.jar" />
+    <property name="user.name" value="f3thomas" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1402580503123 -Declipse.connect.port=57683 -Declipse.pdebuild.home=/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/./ -Declipse.pdebuild.scripts=/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/scripts/ -Declipse.pdebuild.templates=/C:/Program Files/eclipse-jee-kepler-SR2-win32-x86_64/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/templates/ -Dant.home=C:\Program Files\eclipse-jee-kepler-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.8.4.v201303080030 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\f3thomas\git\Pax-Exam-WildFly-Quickstart\ANT\examTests.xml RunTests" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_45\jre" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="user.language" value="en" />
+    <property name="user.language.format" value="de" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.7.0_45" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_45\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_45\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_45\jre\classes" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="file.separator" value="\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.desktop" value="windows" />
+    <property name="ant.file.run All Tests Generator" value="C:\Users\f3thomas\git\Pax-Exam-WildFly-Quickstart\ANT\examTests.xml" />
+    <property name="sun.cpu.isalist" value="amd64" />
+  </properties>
+  <testcase classname="junit.framework.JUnit4TestCaseFacade" name="org.ops4j.paxexam.wildfly.wildfly8.quickstart.HelloWorldBeanTest" time="0.0">
+    <error message="WFSM000001: Permission check failed for (&quot;java.util.PropertyPermission&quot; &quot;jboss.modules.dir&quot; &quot;write&quot;)" type="java.security.AccessControlException">java.security.AccessControlException: WFSM000001: Permission check failed for (&quot;java.util.PropertyPermission&quot; &quot;jboss.modules.dir&quot; &quot;write&quot;)
+	at org.wildfly.security.manager.WildFlySecurityManager.checkPropertyWritePermission(WildFlySecurityManager.java:649)
+	at org.wildfly.security.manager.WildFlySecurityManager.setPropertyPrivileged(WildFlySecurityManager.java:748)
+	at org.jboss.as.embedded.EmbeddedServerFactory.setupModuleLoader(EmbeddedServerFactory.java:166)
+	at org.jboss.as.embedded.EmbeddedServerFactory.create(EmbeddedServerFactory.java:99)
+	at org.jboss.as.embedded.EmbeddedServerFactory.create(EmbeddedServerFactory.java:82)
+	at org.ops4j.pax.exam.wildfly80.WildFly80TestContainer.start(WildFly80TestContainer.java:260)
+	at org.ops4j.pax.exam.spi.reactors.SingletonStagedReactor.beforeSuite(SingletonStagedReactor.java:127)
+	at org.ops4j.pax.exam.spi.reactors.PerSuiteStagedReactor.beforeSuite(PerSuiteStagedReactor.java:72)
+	at org.ops4j.pax.exam.spi.reactors.ReactorManager.beforeClass(ReactorManager.java:450)
+	at org.ops4j.pax.exam.junit.impl.ProbeRunner.run(ProbeRunner.java:111)
+	at org.ops4j.pax.exam.junit.PaxExam.run(PaxExam.java:93)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+</error>
+  </testcase>
+  <system-out><![CDATA[15:41:44.016 [main] INFO  o.o.pax.exam.spi.DefaultExamSystem - Pax Exam System (Version: 3.5.0) created.
+15:41:44.028 [main] DEBUG o.ops4j.store.intern.TemporaryStore - Storage Area is C:\Users\f3thomas\AppData\Local\Temp\1402580504025-0
+15:41:44.060 [main] INFO  o.o.pax.exam.junit.impl.ProbeRunner - creating PaxExam runner for class org.ops4j.paxexam.wildfly.wildfly8.quickstart.HelloWorldBeanTest
+15:41:44.070 [main] DEBUG o.ops4j.pax.exam.spi.PaxExamRuntime - Found TestContainerFactory: org.ops4j.pax.exam.wildfly80.WildFly80TestContainerFactory
+15:41:44.075 [main] DEBUG o.o.pax.exam.spi.DefaultExamSystem - creating WAR probe
+15:41:44.079 [main] DEBUG o.o.p.e.spi.reactors.ReactorManager - No User defined probe hook found
+15:41:44.108 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2 parent=null root=[TestAddress:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2 root:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2] args=[Ljava.lang.Object;@67c8f3da
+15:41:44.110 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-82138a06-d271-427f-8529-d020ab28ade7 parent=null root=[TestAddress:PaxExam-82138a06-d271-427f-8529-d020ab28ade7 root:PaxExam-82138a06-d271-427f-8529-d020ab28ade7] args=[Ljava.lang.Object;@6cf49909
+15:41:44.110 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80 parent=null root=[TestAddress:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80 root:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80] args=[Ljava.lang.Object;@2e6b55c1
+15:41:44.112 [main] DEBUG o.o.pax.exam.spi.DefaultExamReactor - Staging reactor with probes: 1 using strategy: org.ops4j.pax.exam.spi.reactors.PerSuite@2c08cb35
+15:41:44.112 [main] DEBUG o.o.pax.exam.spi.DefaultExamReactor - No configuration given. Setting an empty one.
+15:41:44.117 [main] DEBUG o.ops4j.store.intern.TemporaryStore - Storage Area is C:\Users\f3thomas\AppData\Local\Temp\1402580504025-0
+15:41:44.135 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-a76f1c37-b733-4445-a38e-a3fa15c63593 parent=[TestAddress:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2 root:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2] root=[TestAddress:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2 root:PaxExam-32618bd6-f0e7-44d4-a8e8-c4f25edbb1f2] args=[Ljava.lang.Object;@422fe3d3
+15:41:44.135 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-de97c1bb-119e-43b9-bb18-77396fc813e3 parent=[TestAddress:PaxExam-82138a06-d271-427f-8529-d020ab28ade7 root:PaxExam-82138a06-d271-427f-8529-d020ab28ade7] root=[TestAddress:PaxExam-82138a06-d271-427f-8529-d020ab28ade7 root:PaxExam-82138a06-d271-427f-8529-d020ab28ade7] args=[Ljava.lang.Object;@56165397
+15:41:44.135 [main] DEBUG o.o.p.e.s.intern.DefaultTestAddress - NEW ADDRESS= PaxExam-dc48785b-d7a1-459d-aea1-f588a2a95704 parent=[TestAddress:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80 root:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80] root=[TestAddress:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80 root:PaxExam-88363295-b4e6-4129-9f0b-11efea6a4a80] args=[Ljava.lang.Object;@53ca0aa8
+15:41:44.138 [main] INFO  o.o.pax.exam.junit.impl.ProbeRunner - running test class org.ops4j.paxexam.wildfly.wildfly8.quickstart.HelloWorldBeanTest
+15:41:44.139 [main] INFO  o.o.p.e.w.WildFly80TestContainer - using existing WildFly installation in C:\wildfly\wildfly-8.1.0.CR1
+15:41:44.139 [main] INFO  o.o.p.e.w.WildFly80TestContainer - copying wildfly80-config\application-roles.properties to C:\wildfly\wildfly-8.1.0.CR1\standalone\configuration\application-roles.properties
+15:41:44.143 [main] INFO  o.o.p.e.w.WildFly80TestContainer - copying wildfly80-config\application-users.properties to C:\wildfly\wildfly-8.1.0.CR1\standalone\configuration\application-users.properties
+15:41:44.144 [main] INFO  o.o.p.e.w.WildFly80TestContainer - copying wildfly80-config\mgmt-users.properties to C:\wildfly\wildfly-8.1.0.CR1\standalone\configuration\mgmt-users.properties
+15:41:44.144 [main] INFO  o.o.p.e.w.WildFly80TestContainer - copying wildfly80-config\standalone.xml to C:\wildfly\wildfly-8.1.0.CR1\standalone\configuration\standalone.xml
+15:41:44.145 [main] INFO  o.o.p.e.w.WildFly80TestContainer - copying wildfly80-config\standalone_orgPaxExam.xml to C:\wildfly\wildfly-8.1.0.CR1\standalone\configuration\standalone_orgPaxExam.xml
+15:41:44.214 [main] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+15:41:44.219 [main] INFO  o.o.p.e.spi.reactors.ReactorManager - suite finished
+15:41:44.219 [main] WARN  o.o.pax.exam.spi.DefaultExamSystem - Option org.ops4j.pax.exam.options.WarProbeOption has not been recognized.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
