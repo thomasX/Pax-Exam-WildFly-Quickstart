@@ -212,8 +212,10 @@
 			<pathelement location="../../ferpsgit/JAVAEE/javaee-api-6.jar"/>
 	    	<pathelement location="../../ferpsgit/Junit/junit-4.11.jar"/>
 	    	<pathelement location="../../ferpsgit/Junit/hamcrest-core-1.3.jar"/>
-			<pathelement location="../../Pax-Exam-WildFly-Quickstart" />			
-			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/main/java" />			
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/test/java" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/main/java" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/test/resources" />		
 			
 			<pathelement location="../../ferpsgit/FERPShessian/WebContent/WEB-INF/lib/hessian-4.0.37.jar" />
 			<pathelement location="../../ferpsgit/PaxExam/activation-1.1.jar"/>
