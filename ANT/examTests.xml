@@ -9,7 +9,13 @@
 	<javac srcdir="../../Pax-Exam-WildFly-Quickstart/" includes="**/*.java" debug="on" includeantruntime="false" encoding="ISO-8859-1">	
 	<!--javac srcdir="../../ferpsgit/PaxExam/" includes="**/*.java" debug="on" includeantruntime="false" encoding="ISO-8859-1"-->	
 		<classpath>
-			<pathelement location="../../Pax-Exam-WildFly-Quickstart" />			
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/test/java" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/main/java" />		
+			<pathelement location="../../Pax-Exam-WildFly-Quickstart/src/test/resources" />		
+			
+			
+			
 			<pathelement location="../../ferpsgit/PaxExam/activation-1.1.jar"/>
 	    	<pathelement location="../../ferpsgit/PaxExam/aesh-0.33.11.jar"/>
 	    	<pathelement location="../../ferpsgit/PaxExam/aether-api-0.9.0.M4.jar"/>
