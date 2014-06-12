@@ -27,4 +27,5 @@ Edit the Run-Configuration:
 Write into the Field 'VM-arguments' of the Tab (x)-Arguments the following String: '-XX:MaxPermSize=256m'
     	   
     	   
+    	   
     	 
