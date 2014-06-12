@@ -377,7 +377,7 @@
 	    	<pathelement location="../../ferpsgit/PaxExam/xnio-nio-3.2.0.Final.jar"/>
 		</classpath>
 		<batchtest todir="${testingFolder}/CactusReports">
-			<fileset dir="../../Pax-Exam-WildFly-Quickstart/src/main/java">
+			<fileset dir="../../Pax-Exam-WildFly-Quickstart/src/test/java">
 				<include name="**/*test.class"/>
 				<include name="**/*Test.class"/>
 			</fileset>
